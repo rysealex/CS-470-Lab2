@@ -10,7 +10,7 @@
 // number of child processes to create
 #define NUM_CHILD 10
 
-// main is the parent process
+// parent process starts from main
 int main() {
 
     // display the parent the PID
